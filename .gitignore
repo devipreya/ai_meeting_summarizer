@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+uploads/
+pdfs/
+venv/
+.env
+converted.wav
